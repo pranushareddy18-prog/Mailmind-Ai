@@ -1,0 +1,8 @@
+{
+  "name": "MailMind AI – Smart Email Assistant",
+  "description": "Intelligent email dashboard integrated with Gmail API and Gemini AI for priority sorting, smart summaries, deadlines extraction, and reply drafting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
